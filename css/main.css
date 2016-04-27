@@ -287,8 +287,8 @@ textarea {
 }
 
 
-.map {
-  height: 400px;
+.icon {
+  color: #40B26F;
 }
 
 .plan__table-container {
@@ -296,6 +296,7 @@ textarea {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  text-align: center;
   margin: 64.528px 0 0;
 }
 
